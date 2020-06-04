@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DrinkWater</string>
+    <string name="intervalo">Digite o intervalo (min)</string>
+    <string name="notify">Notificar</string>
+    <string name="pause">Pausar</string>
+    <string name="validation">O intervalo precisa ser definido</string>
+    <string name="zero_value">O valor precisa ser maior que zero</string>
+    <string name="notified">Alerta ativado</string>
+    <string name="notified_pause">Alarme desativado</string>
+    <string name="ok">OK</string>
+    <string name="version">1.0</string>
+    <string name="dev">Carlos</string>
+    <string name="dev_title">Desenvolvido por</string>
+    <string name="version_title">Versão</string>
+    <string name="about_app">Digite o horário que deseja começar a receber as notificações, após isso defina o intervalo(min)
+    que será enviado os alertas para você, após isso, se hidrate! =D</string>
+</resources>
